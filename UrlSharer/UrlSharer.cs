@@ -59,7 +59,7 @@ namespace UrlSharer
             var fastImage = new FastImage.FastImage();
             foreach (string s in urls)
             {
-                if (urlInfo.Images.Count < 3)
+                if (urlInfo.Images.Count < 100)
                 {
                     var absoluteUri = new Uri(baseUrl, s);
                     ImageInfo imageInfo = fastImage.GetImageInfo(absoluteUri.ToString());
