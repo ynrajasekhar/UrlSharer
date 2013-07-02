@@ -14,7 +14,7 @@
 
 ## Demo
 
-* https://github.com/sdsykes/fastimage
+* http://rajlab.apphb.com/UrlSharerDemo.aspx
 
 ## Licence
 

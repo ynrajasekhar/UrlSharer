@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlSharer", "UrlSharer\UrlSharer.csproj", "{A8815A16-CA23-4387-B383-B01D9A38FC64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlSharer.Web", "UrlSharer.Web\UrlSharer.Web.csproj", "{3B6251E4-FCDF-45CE-A0DB-13253D329DCF}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +13,6 @@ Global
 		{A8815A16-CA23-4387-B383-B01D9A38FC64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8815A16-CA23-4387-B383-B01D9A38FC64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8815A16-CA23-4387-B383-B01D9A38FC64}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3B6251E4-FCDF-45CE-A0DB-13253D329DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B6251E4-FCDF-45CE-A0DB-13253D329DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B6251E4-FCDF-45CE-A0DB-13253D329DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B6251E4-FCDF-45CE-A0DB-13253D329DCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

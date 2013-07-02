@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("UrlSharer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("gets title, description, thumbnail images for an url, to use in facebook like linkshare")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("Rajasekhar")]
 [assembly: AssemblyProduct("UrlSharer")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2013")]
+[assembly: AssemblyCopyright("Copyright © Rajasekhar Reddy 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
